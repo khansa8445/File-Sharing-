@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-13T17:56:22 IST" name="Default suite" finished-at="2025-04-13T17:56:37 IST" duration-ms="14418">
+    <groups>
+    </groups>
+    <test started-at="2025-04-13T17:56:22 IST" name="Default test" finished-at="2025-04-13T17:56:37 IST" duration-ms="14418">
+      <class name="tests.FileUploadTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:22 IST" name="setup" finished-at="2025-04-13T17:56:26 IST" duration-ms="3305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuplogin()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:26 IST" name="setuplogin" finished-at="2025-04-13T17:56:26 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuplogin -->
+        <test-method signature="testMaxFileSizeText()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:26 IST" name="testMaxFileSizeText" finished-at="2025-04-13T17:56:28 IST" duration-ms="1660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxFileSizeText -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:28 IST" name="teardown" finished-at="2025-04-13T17:56:28 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:28 IST" name="setup" finished-at="2025-04-13T17:56:30 IST" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuplogin()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:30 IST" name="setuplogin" finished-at="2025-04-13T17:56:30 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuplogin -->
+        <test-method signature="testUploadFileWithPassword()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:30 IST" name="testUploadFileWithPassword" finished-at="2025-04-13T17:56:32 IST" duration-ms="1569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUploadFileWithPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:32 IST" name="teardown" finished-at="2025-04-13T17:56:32 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:32 IST" name="setup" finished-at="2025-04-13T17:56:35 IST" duration-ms="2849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuplogin()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:35 IST" name="setuplogin" finished-at="2025-04-13T17:56:35 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuplogin -->
+        <test-method signature="testUploadFileWithoutPassword()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:35 IST" name="testUploadFileWithoutPassword" finished-at="2025-04-13T17:56:36 IST" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUploadFileWithoutPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.FileUploadTest@1f2586d6]" started-at="2025-04-13T17:56:36 IST" name="teardown" finished-at="2025-04-13T17:56:37 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.FileUploadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
